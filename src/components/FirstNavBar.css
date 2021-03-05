@@ -3,6 +3,7 @@
   width: 100%;
   padding: 0.5rem 2rem;
   background: #13699a;
+  display: none;
 }
 .firstnavbar__link {
   padding: 0 2rem;
@@ -15,6 +16,7 @@
   height: 3rem;
   display: flex;
   align-items: center;
+  display: none;
 }
 .navbar:nth-child(1) h2 {
   font-size: 0.75rem;

@@ -108,6 +108,7 @@
   align-items: center;
   font-size: 1rem;
   color: #fff;
+  display: none;
 }
 
 .main-navbar button {
